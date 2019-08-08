@@ -1,10 +1,8 @@
 h1{color: black;
 font-family: verdana;
+font-size: 15px;
 
 }
 body{
-    background-color: whitesmoke;
-    background-image: url(gambar/12.jpg);
-    background-repeat: no-repeat;
-    background-position: top left
+    background: url(gambar/4.jpg) rgb(122, 122, 54) no-repeat left
 }
