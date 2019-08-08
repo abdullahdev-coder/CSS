@@ -2,6 +2,12 @@
 h1
     {color: #bbbcda;
     font-size: 80px;
+    text-align: center;
+    text-decoration: underline;
+    }
+p
+    {text-align: justify;
+    text-indent: 10%;
 
 }
 
