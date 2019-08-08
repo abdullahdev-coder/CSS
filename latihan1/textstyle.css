@@ -9,7 +9,7 @@ h1
 p
     {text-align: justify;
     text-indent: 10%;
-    letter-spacing: 4px;
+    word-spacing: 4px;
 }
 
 a {text-decoration: none;}
