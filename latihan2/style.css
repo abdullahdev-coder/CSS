@@ -1,7 +1,9 @@
 h1{color: black;
 font-family: verdana;
+
 }
 body{
-    background-color: rgb(177, 250, 135);
-    
+    background-color: rgb(135, 167, 117);
+    background-image: url(gambar/9.png);
+    background-repeat: repeat-x;
 }
