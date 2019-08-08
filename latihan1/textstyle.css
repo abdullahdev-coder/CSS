@@ -4,6 +4,7 @@ h1
     font-size: 80px;
     text-align: center;
     text-decoration: underline;
+    text-transform: capitalize;
     }
 p
     {text-align: justify;
