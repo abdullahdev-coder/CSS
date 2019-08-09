@@ -1,0 +1,7 @@
+ul#angka li{
+    color: red;
+
+}
+ul#angka li.tanggal-lahir{
+    color: blue;
+}
